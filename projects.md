@@ -12,8 +12,12 @@ Electric surfboards are cool, but they're also really expensive - why can't I ju
 
 ## [EDSAC Peripherals, Reimagined](https://github.com/embecosm/edsac-peripherals)
 
-Created reimagined versions of the peripherals used by the 1950s computer EDSAC, designed to be 3D printed to give the next generation an understanding of the history of computing.
+Created reimagined versions of the peripherals used by the 1950s computer EDSAC, designed to be 3D printed to give the next generation an understanding of the history of computing. Presented at ORCONF at the Wuthering Bytes festival, 2017.
 
 ## [Student Robotics - Where's me Jumper Team BRK](https://twitter.com/wherejumper)
 
 Competed in UK Student Robotics competition in 2016 with a team named after a song by Sultans of Ping FC, came 4th out of about 50 teams. Personally responsible for our box flipping mechanism.
+
+## Pedal Car
+
+Built about 2012, I think. Capable of 24 mph, had fully independent front suspension, no rear suspension. 3 speed Sturmey Archer and rear axle setup from a Pashley tricycle, but didn't really have any effective brakes so was tricky to stop. I should find a picture cause it was rather complicated.
