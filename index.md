@@ -1,5 +1,5 @@
 ---
-title: Home
+layout: default
 ---
 Welcome, this homepage is a work in progress.
 
