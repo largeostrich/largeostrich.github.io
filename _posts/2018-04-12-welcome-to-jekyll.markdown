@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to My Blog"
 date:   2018-04-12 17:36:52 +0100
 categories: personal
