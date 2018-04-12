@@ -12,4 +12,4 @@ Electric surfboards are cool, but they're also really expensive - why can't I ju
 
 ## [Student Robotics - Where's me Jumper Team BRK](https://twitter.com/wherejumper)
 
-Competed in UK Student Robotics competition in 2016, came 4th out of about 50 teams. Personally responsible for our box flipping mechanism.
+Competed in UK Student Robotics competition in 2016 with a team named after a song by Sultans of Ping FC, came 4th out of about 50 teams. Personally responsible for our box flipping mechanism.
