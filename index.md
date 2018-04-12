@@ -1,6 +1,5 @@
 ---
 title: Home
-permalink: /
 ---
 Welcome, this homepage is a work in progress.
 
