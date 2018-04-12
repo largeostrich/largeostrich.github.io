@@ -10,7 +10,7 @@ I have some projects going on at the moment, and some which I've done in the pas
 
 Electric surfboards are cool, but they're also really expensive - why can't I just build my own for less? It's open source and designed to be 3D printed, and the water jets could be used for other applications. It's still in the design phase, I haven't built it yet, but it should cost less than £500. See the github link.
 
-![openwaterjet](https://largeostrich.github.io/assets/openwaterjet.io)
+![openwaterjet](https://i.imgur.com/W9jT7ws.png)
 
 ## [EDSAC Peripherals, Reimagined](https://github.com/embecosm/edsac-peripherals)
 
