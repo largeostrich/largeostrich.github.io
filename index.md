@@ -3,6 +3,10 @@ layout: default
 ---
 Welcome, this homepage is a work in progress.
 
-[Projects](https://largeostrich.github.io/projects/)
+## [About](https://largeostrich.github.io/about)
 
-[About](https://largeostrich.github.io/about/)
+More info about me
+
+## [Projects](https://largeostrich.github.io/projects)
+
+A page about some of my projects, past and present

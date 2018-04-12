@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/
+permalink: /about
 ---
 # About
 
@@ -10,4 +10,4 @@ I go by thelargeostrich or largeostrich on most things which want a username, al
 
 This website is still under construction, please bear with me.
 
-[back](./index)
+[back](largeostrich.github.io)
