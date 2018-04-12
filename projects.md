@@ -20,3 +20,5 @@ Competed in UK Student Robotics competition in 2016 with a team named after a so
 ## Pedal Car
 
 Built about 2012, I think. Capable of 24 mph, had fully independent front suspension, no rear suspension. 3 speed Sturmey Archer and rear axle setup from a Pashley tricycle, but didn't really have any effective brakes so was tricky to stop. I should find a picture cause it was rather complicated.
+
+[back](./index)
