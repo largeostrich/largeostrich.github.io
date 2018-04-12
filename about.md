@@ -2,6 +2,7 @@
 title: About
 permalink: /about/
 ---
+# About
 
 I am Peter Bennett, I'm currently studying Mining Engineering at the Camborne School of Mines, University of Exeter.
 

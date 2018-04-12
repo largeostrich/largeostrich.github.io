@@ -2,6 +2,7 @@
 title: Projects
 permalink: /projects/
 ---
+# Projects
 
 I have some projects going on at the moment, and some which I've done in the past
 
