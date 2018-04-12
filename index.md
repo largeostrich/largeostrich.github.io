@@ -10,3 +10,7 @@ More info about me
 ## [Projects](https://largeostrich.github.io/projects)
 
 A page about some of my projects, past and present
+
+## [Github](https://github.com/largeostrich)
+
+A link to my github account
