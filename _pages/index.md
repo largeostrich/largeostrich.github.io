@@ -1,4 +1,5 @@
 ---
+title: "Peter Bennett's Site"
 layout: splash
 permalink: /
 header:
