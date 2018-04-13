@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/projects.png
     alt: "A selection of my projects"
     title: "Projects"
-    excerpt: "These are some projects I have going on at the moment, and some which I have done in the past"
+    excerpt: "These are are a selection of my projects"
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "See the Projects"
