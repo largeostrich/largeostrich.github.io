@@ -1,15 +1,16 @@
 ---
 layout: single
+title: "Projects"
 permalink: /projects/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plainblue.png
   caption:
-excerpt: 'These are some projects I have going on at the moment, and some which I've done in the past'
+excerpt: 'These are some projects I have going on at the moment, and some which I have done in the past'
 author: Peter Bennett
 ---
 
-
+Have a look below at this selection of projects:
 
 ## [openwaterjet](https://github.com/largeostrich/openwaterjet)
 
