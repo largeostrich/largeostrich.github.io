@@ -23,7 +23,7 @@ twitter_username: V12Peter
 github_username:  largeostrich
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
 plugins:
   - jekyll-feed
