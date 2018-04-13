@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plainblue.png
   caption:
-excerpt: 'A homepage'
+excerpt: ' A personal website for Peter Bennett, also known as largeostrich/thelargeostrich online. Currently studying Mining Engineering at Camborne School of Mines, very much not a web designer.'
 feature_row:
   - image_path: /assets/images/plainblue.png
     alt: "About me"

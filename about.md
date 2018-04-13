@@ -1,8 +1,13 @@
 ---
-layout: default
+layout: single
 permalink: /about/
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/plainblue.png
+  caption:
+excerpt: 'Personal details about me'
+author: Peter Bennett
 ---
-# About
 
 I am Peter Bennett, I'm currently studying Mining Engineering at the Camborne School of Mines, University of Exeter.
 
