@@ -10,7 +10,7 @@ excerpt: 'Page for the openwaterjet/open electric surfboard project'
 author: Peter Bennett
 ---
 
-On GitHub [here](github.com/largeostrich/openwaterjet).
+On GitHub [here](https://www.github.com/largeostrich/openwaterjet).
 
 On Thingiverse [here](https://www.thingiverse.com/thing:3112554/).
 
