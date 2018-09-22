@@ -6,11 +6,12 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plainblue.png
   caption:
-excerpt: 'Project page for the openwaterjet/open electric surfboard project'
+excerpt: 'Page for the openwaterjet/open electric surfboard project'
 author: Peter Bennett
 ---
 
 On GitHub [here](github.com/largeostrich/openwaterjet).
+
 On Thingiverse [here](https://www.thingiverse.com/thing:3112554/).
 
 ## The Idea
@@ -54,5 +55,7 @@ A bicycle brake lever is used to actuate a slide potentiometer, which is interpr
 I don't have much to write here yet, but here's a picture of me holding the partially complete board, which sholud give you a sense of scale.
 
 ![Me, holding the board]({{ "/assets/images/holdingboard.jpg" | absolute_url }})
+
+Hopefully around New Year time ish I should have more stuff, including me hopefully riding this thing for the first time (which, for comedy purposes, I fully intend to video).
 
 
