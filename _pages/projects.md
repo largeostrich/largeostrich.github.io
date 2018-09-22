@@ -14,7 +14,7 @@ Have a look below at this selection of projects:
 
 ## [openwaterjet](https://github.com/largeostrich/openwaterjet)
 
-Openwaterjet project page [here](./openwaterjet).
+Openwaterjet project page [here](./../openwaterjet).
 
 Electric surfboards are cool, but they're also really expensive - why can't I just build my own for less? It's open source and the waterjet drive units are designed to be 3D printed, and could also be used for other applications. It's mostly built, check the project page for the latest updates. I haven't finished it yet, but it should cost less than £500. See the github link.
 
