@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plainblue.png
   caption:
-excerpt: 'Page for the openwaterjet/open electric surfboard project'
+excerpt: 'Page for the openwaterjet and open electric surfboard project'
 author: Peter Bennett
 ---
 
