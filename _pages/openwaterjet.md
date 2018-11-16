@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "openwaterjet"
+title: "Electric Surfboard and openwaterjet"
 permalink: /openwaterjet/
 header:
   overlay_color: "#5e616c"
@@ -13,6 +13,8 @@ author: Peter Bennett
 On GitHub [here](https://www.github.com/largeostrich/openwaterjet).
 
 On Thingiverse [here](https://www.thingiverse.com/thing:3112554/).
+
+The Electric Surfboard project is my latest big project. Openwaterjet is an open-source water-jet drive unit system, whichI've designed for this project, but is intended to be suitable for other applications including large remote-control boats.
 
 ## The Idea
 
@@ -44,15 +46,15 @@ I started by printing the pair of drive units and assembling them with RC boat p
 
 ![Side View of Drive Units]({{ "/assets/images/driveunitsideview.jpg" | absolute_url }})
 
-### Control Systems
+### Control Systems and Electronics
 
-A bicycle brake lever is used to actuate a slide potentiometer, which is interpreted by an ATMega 328 microcontroller to feed signal to two 125A Hobbyking Red Brick ESCs. These take power from a 6S 20000mAh quadcopter LiPo battery pack to drive the motors. The control circuits have been soldered up and are working but I haven't done the heavy electrics yet.
+A bicycle brake lever is used to actuate a slide potentiometer, which is interpreted by an ATMega 328 microcontroller to feed signal to two 125A Hobbyking Red Brick ESCs, with a kill cord wired in to. These take power from a 22.2V 6S 20000mAh quadcopter LiPo battery pack to drive the motors. The microcontroller and circuits have been soldered up and are working but I haven't done the heavy electrics yet or written the control software yet.
 
 ![Control Systems]({{ "/assets/images/controlsystems.jpg" | absolute_url }})
 
 ### The Board
 
-I don't have much to write here yet, but here's a picture of me holding the partially complete board, which sholud give you a sense of scale.
+I don't have that much to write here yet, but here's a picture of me holding the partially complete board, which sholud give you a sense of scale. Its built from marine plywood, a large amount of polystyrene carved from a single huge block, and intended to be covered with Epoxy GRP to give a strong watertight shell.
 
 ![Me, holding the board]({{ "/assets/images/holdingboard.jpg" | absolute_url }})
 

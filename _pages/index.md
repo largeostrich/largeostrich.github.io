@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/plainblue.png
   caption:
-excerpt: ' A personal website for Peter Bennett, sometimes known as largeostrich/thelargeostrich online. Currently studying Mining Engineering at Camborne School of Mines. I am very much not a web designer.'
+excerpt: ' A personal website for Peter Bennett, sometimes known as largeostrich/thelargeostrich online. Currently studying Mining Engineering at Camborne School of Mines.'
 feature_row:
   - image_path: /assets/images/about.png
     alt: "About me"
@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Visit Github"
 intro:
-  - excerpt: 'Welcome. This website is currently a work in progress, some things may be broken.'
+  - excerpt: 'Welcome to my website. Check out some of the pages on this website to find out more about me and my projects.'
 ---
 
 {% include feature_row id="intro" type="center" %}

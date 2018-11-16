@@ -12,11 +12,9 @@ author: Peter Bennett
 
 Have a look below at this selection of projects:
 
-## [openwaterjet](https://github.com/largeostrich/openwaterjet)
+## [Electric Surfboard and openwaterjet](./../openwaterjet)
 
-Openwaterjet project page [here](./../openwaterjet).
-
-Electric surfboards are cool, but they're also really expensive - why can't I just build my own for less? It's open source and the waterjet drive units are designed to be 3D printed, and could also be used for other applications. It's mostly built, check the project page for the latest updates. I haven't finished it yet, but it should cost less than £500. See the github link.
+Electric surfboards are cool, but they're also really expensive - why can't I just build my own for less? It's open source and the waterjet drive units are designed to be 3D printed, and could also be used for other applications. It's mostly built, check the project page for the latest updates. I haven't finished it yet, but it should cost less than £500. See the page on the link above for more details and photos.
 
 ![openwaterjet]({{ "/assets/images/openwaterjet.png" | absolute_url }})
 
@@ -30,6 +28,8 @@ Competed in UK Student Robotics competition in 2016 with a team named after a so
 
 ## Pedal Car
 
-Built about 2012, I think. Capable of 24 mph if you were ~~stupid~~ brave, had fully independent front suspension, no rear suspension. 3 speed Sturmey Archer and rear axle setup from a Pashley tricycle, but didn't really have any effective brakes so was tricky to stop. I should find a picture cause it was rather complicated.
+Built about 2012. Capable of 24 mph if you were ~~stupid~~ brave, had double-wishbone style front suspension, no rear suspension. 3 speed Sturmey Archer and rear axle setup from a Pashley tricycle, but didn't really have any effective brakes so was tricky to stop. 
+
+![Pedal Car]({{ "/assets/images/pedalcar.jpg" | absolute_url }})
 
 [Home](./)
