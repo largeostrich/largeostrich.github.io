@@ -15,4 +15,5 @@ I am Peter Bennett, I'm currently studying Mining Engineering at the Camborne Sc
 You can find me on [Twitter](https://twitter.com/V12Peter), [LinkedIn](www.linkedin.com/in/thelargeostrich) and [Github](https://github.com/largeostrich).
 
 I go by thelargeostrich or largeostrich on most other things which want a username.
-[Home](./)
+
+[Home](./../)
