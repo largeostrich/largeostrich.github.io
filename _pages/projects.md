@@ -22,9 +22,13 @@ Electric surfboards are cool, but they're also really expensive - why can't I ju
 
 Created reimagined versions of the peripherals used by the 1950s computer EDSAC, designed to be 3D printed to give the next generation an understanding of the history of computing. Presented at ORCONF at the Wuthering Bytes festival, 2017.
 
-## [Student Robotics - Where's me Jumper Team BRK](https://twitter.com/wherejumper)
+## [Student Robotics - Where's me Jumper Team BRK](https://studentrobotics.org/)
 
 Competed in UK Student Robotics competition in 2016 with a team named after a song by Sultans of Ping FC, came 4th out of about 50 teams. Personally responsible for our box flipping mechanism.
+
+I returned in 2019 as a volunteer to help with the running of the competition.
+
+![2016 Student Robotics competitors, me somewhere near the centre]({{ "https://studentrobotics.org/images/content/news/sr2016/teams-thumbnail.jpg" | absolute_url }})
 
 ## Pedal Car
 
