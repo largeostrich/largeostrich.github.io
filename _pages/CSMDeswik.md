@@ -70,13 +70,25 @@ author: Peter Bennett
         1. Visual settings
     3. Stope Loops
 ## Tips and tricks
+* Multiple views
+* Most recent commands
 ## Useful information
 * Image mapping points
+* Keyboard shortcuts
     
 # 1. User interface setup
 When Deswik first opens on a PC, it will ask if you want to work in metric or imperial. Since we live in a civilised society, we will use metric.
 
-On first open, Deswik will also only show the getting started toolbars. This does not give you quick access to many tools. For our purposes, we will require the **general** toolbars.
+On first open, Deswik will also only show the getting started toolbars. This does not give you quick access to many tools. For our purposes, we will require the **general** toolbars. 
+* **Toolbars** are picture based sets of tools. These are found above and to the left and right of the workspace. These are completely customisable.
+* **Menus** are text-based drop-downs. These are found at the top of the window. These may be more logically ordered, but take longer to navigate.
+* **Dock Windows** are the windows within the interface that perform specific functions. Initially, three will be open. Layer Control (left), Output (bottom), and Properties (right). DO NOT CLOSE THESE THREE.
+
+Many things can be found in both toolbars and menus, and often through keyboard shortcuts too. 
+
+To enable the general toolbars, navigate through the menus to View | Toolbars | Show General. You should now have four rows of toolbars at the top of your workspace. Don't panic Mr Mainwaring, you'll gradually learn a fair number of the tools you can see.
+
+The interactive scheduler (Deswik.IS) should also be open while using Deswik.CAD. This can be opened through the menus by going Tools | Deswik.IS (Interactive Scheduler). It will then appear on the left of your screen. For now, [stack this as a tab](https://help.deswik.com/HelpContent/Deswik.Suite2019.1/content/deswiksuite/managingdockwindows.htm#Dockawindowinanewposition) on the left pane over your Layer Control dock window.
 # 2. File Management and linked schedule
 # 3. Backup and save settings  
 
