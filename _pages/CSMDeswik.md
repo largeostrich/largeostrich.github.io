@@ -109,15 +109,41 @@ Our geology data is supplied. As mining engineers, this will usually come from a
 
 ## 4.1. Import Datamine orebody wireframe
 
-The wireframe is an outline of the orebody. It does not contain density or other attributes. It should be imported onto a layer under geology using File \| Import \| Datamine \| Wireframe. You may wish to make it semi-transparent, to help you see what is going on.
+The wireframe is an outline of the orebody. It does not contain density or other attributes. It should be imported onto a layer under geology using File \| Import \| Datamine \| Wireframe. The wireframe is called OBWF2020TR. You may wish to make it semi-transparent, to help you see what is going on.
 
 ## 4.2. Link Block Model
 
-The block model is our geological numerical data model. It is generated through difficult maths and diamond drillholes. In our case it contains data about grade, class, lode, and density. The lode attribute is unimportant, since we are only working on a single lode, lode "6". 
+The block model is our geological numerical data model. It is generated through difficult maths and diamond drillholes. In our case it contains data about grade, class, lode, and density. The lode attribute is unimportant, since we are only working on a single lode, lode "6". To link the block model, we will need to edit the table in the **Block Model Display** window. This can be found on the block model toolbar.
+
+The table has many columns. These are:
+- **Use:** This should be ticked if we want to see anything. Useful if you have multiple block models, otherwise useless.
+- **Name:** Not hugely important, leave as is
+- **Visualization:** This must be set to *slice.* Don't worry about it.
+- **Block Model:** This is the most important column. Here we must select the block model file from our working folder. It is called BM2020.dm.
+- **Dynamic:** This is important, as it ensures our slice moves as we move through our model.
+- **Legend:** Legends are colour schemes you can apply to show grade for example. If you want to apply one, you'll need to create one first.
+- **Filter:** Filters allow you to hide stuff you don't want to see, such as ore below cutoff grade. If you want to apply one, you'll need to create one first.
+- **Filled:** This is a visual change, making the boxes filled instead of outlines. I personally think it is awful and garish. You can decide for yourself ~~if you wish to hurt your eyes~~.
+- **Opacity:** What it says on the tin. Range is 0 - 255. Used to make filled slightly more palatable.
+- **Line width:** Changes the width of the outline when filled is not enabled.
+- **Draw Annotations:** Used to enable or disable specified annotations from the next column. If you have no annotations specified, this does nothing.
+- **Annotations:** Used to specify any annotations you desire.
+Beyond this point, ignore the rest of the columns.
+
+When you are done, press Apply to make the changes without closing the box, or OK to apply then close. Enable the block model display by pressing the **Show Dynamic Slice** button on the Block Model toolbar. The block model is displayed on the working plane, and will dynamically move with it.
 
 ### 4.2.1. Block model legend
+
+To edit legends, use the [Modify Legends](https://help.deswik.com/HelpContent/Deswik.Suite2019.1/content/cad/edit/edit-legend.htm) button.
+
 ### 4.2.2. Cut-off grade block model filter
+
+To edit filters, use the [Modify Filters](https://help.deswik.com/HelpContent/Deswik.Suite2019.1/content/cad/edit/edit-filter.htm) button. You should probably apply one to hide ore below cutoff. Consider also the class of the ore.
+
 ### 4.2.3. Block model annotations
+
+Block model annotations allow you to write specific data to blocks on the block model. More guidance is available on the [official help files](https://help.deswik.com/HelpContent/Deswik.Suite2019.1/content/cad/format/blockmodeldisplay.htm?tocpath=Mine%20Planning%20%26%20Design%7CDeswik.CAD%7CMenu%20Commands%7CFormat%7C_____3).
+
 5. Creating ore drives
     1. Setting a horizontal working plane
     2. Drawing ore drive polylines
@@ -151,3 +177,5 @@ The block model is our geological numerical data model. It is generated through 
     3. Stope Loops
 
 [Home](./../)
+
+*Laboris Gloria Ludi*
