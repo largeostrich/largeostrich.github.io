@@ -70,9 +70,12 @@ author: Peter Bennett
         1. Visual settings
     3. Stope Loops
 ## Tips and tricks
+
 - Multiple views
 - Most recent commands
+
 ## Useful information
+
 - Image mapping points
 - Keyboard shortcuts
     
@@ -100,12 +103,21 @@ Deswik has backup functionality. You may not know about this, but when you make 
 
 To find backup settings, navigate through menus to Tools \| Options. In the options window, find the Backups tab. Here you can adjust the backup settings. The standard ones are quite good. You can also enable save reminders by checking the bottom checkbox, and set the frequency of these. These are a useful way to automatically remind yourself to save your work.
 
-4. Importing geology and block model
-    1. Import Datamine orebody wireframe
-    2. Link Block Model
-        1. Block model legend
-        2. Cut-off grade block model filter
-        3. Block model annotations
+# 4. Importing geology and block model
+
+Our geology data is supplied. As mining engineers, this will usually come from a geology department. Ours is from Lewis.
+
+## 4.1. Import Datamine orebody wireframe
+
+The wireframe is an outline of the orebody. It does not contain density or other attributes. It should be imported onto a layer under geology using File \| Import \| Datamine \| Wireframe. You may wish to make it semi-transparent, to help you see what is going on.
+
+## 4.2. Link Block Model
+
+The block model is our geological numerical data model. It is generated through difficult maths and diamond drillholes. In our case it contains data about grade, class, lode, and density. The lode attribute is unimportant, since we are only working on a single lode, lode "6". 
+
+### 4.2.1. Block model legend
+### 4.2.2. Cut-off grade block model filter
+### 4.2.3. Block model annotations
 5. Creating ore drives
     1. Setting a horizontal working plane
     2. Drawing ore drive polylines
